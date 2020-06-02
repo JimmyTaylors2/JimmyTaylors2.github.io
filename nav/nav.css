@@ -122,7 +122,7 @@ logo{
 	background-position: right 25px center;	
 	height:45px;
 	position:relative;
-	background-color: #02226d;	
+	background-color: rgb(51, 48, 48);	
 
 }
 #toggle + label:after {
@@ -159,9 +159,7 @@ nav > li{
 nav li a{
 	padding:10px 25px;
 	}
-.sub{
 
-}
 .sub{
 	position: static;
 	background:transparent;
