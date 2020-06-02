@@ -132,11 +132,11 @@ h3{
 	border: 1px solid #ccc;
 	}
 .readmore.blue{
-	color:#02226d;
-	border: 1px solid #02226d;
+	color:White;
+	border: 1px solid blanchedalmond;
 	}
 .readmore:hover{
-	background-color:#02226d;
+	background-color: Black;
 	border: 1px solid #02226d;
 	color:#fff;
 	opacity:1;

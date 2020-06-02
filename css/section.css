@@ -15,9 +15,19 @@ section{
 	-moz-box-shadow: none;
 	-o-box-shadow: none;
 	}
+
+.bg_blue_home{
+	background-image: url(../img/bg-middle2.jpg);
+	background-size:cover;
+	background-attachment: fixed;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-o-box-shadow: none;
+	}
 	
 .bg_gray_light{
-	background-image: url(../img/bg_gray.jpg);
+	background-image: url(../img/footer-bg-blue.jpg);
 	background-size:cover;
 	background-attachment: fixed;
 }
